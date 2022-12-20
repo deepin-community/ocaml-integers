@@ -1,0 +1,20 @@
+ocaml-integers (0.4.0-1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 24 Nov 2022 07:21:24 +0800
+
+ocaml-integers (0.4.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump debhelper compat level to 13
+  * Bump Standards-Version to 4.5.0
+  * Add Rules-Requires-Root: no
+
+ -- Stéphane Glondu <glondu@debian.org>  Wed, 05 Aug 2020 11:14:36 +0200
+
+ocaml-integers (0.3.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #934154)
+
+ -- Stéphane Glondu <glondu@debian.org>  Sun, 11 Aug 2019 10:30:29 +0200

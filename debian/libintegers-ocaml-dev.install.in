@@ -1,0 +1,12 @@
+@OCamlStdlibDir@/integers/*dune*
+@OCamlStdlibDir@/integers/*opam*
+@OCamlStdlibDir@/integers/*.ml
+@OCamlStdlibDir@/integers/*.mli
+@OCamlStdlibDir@/integers/*.cmi
+@OCamlStdlibDir@/integers/*.cmt
+@OCamlStdlibDir@/integers/*.cmti
+@OCamlStdlibDir@/integers/*.a
+@OCamlStdlibDir@/integers/*.h
+OPT: @OCamlStdlibDir@/integers/*.cmx
+OPT: @OCamlStdlibDir@/integers/*.cmxa
+@OCamlStdlibDir@/integers/top
