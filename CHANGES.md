@@ -1,3 +1,23 @@
+v0.7.0 2022-03-23
+-----------------
+
+* restore dll support for cygwin64 / newer binutils versions (mingw64) (@fdopen, #40)
+
+v0.6.0 2022-02-05
+-----------------
+
+* Add dependency on stdlib-shims (@kit-ty-kate, #38)
+
+v0.5.1 2021-08-12
+-----------------
+
+* Restore support for pre-4.05 OCaml versions (@yallop, #37) 
+
+v0.5.0 2021-07-31
+-----------------
+* Hex printing, and option-based parsing (@raphael-proust, #34)
+* Add stdlib-compatible string parsing (@mrmr1993, #32)
+
 v0.4.0 2020-05-01
 -----------------
 * Expose Signed.S.Infix.(asr) (@dra27, #30)
