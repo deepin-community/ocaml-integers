@@ -1,2 +1,2 @@
-version=3
-https://github.com/ocamllabs/ocaml-integers/releases .*/archive/v?(.*)\.tar\.gz
+version=4
+https://github.com/ocamllabs/ocaml-integers/tags .*/archive/refs/tags/v?(.*)\.tar\.gz
